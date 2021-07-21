@@ -1,0 +1,8 @@
+.github
+.husky
+.jshintignore
+.jshintrc
+commitlint.config.js
+Makefile
+test
+package-lock.json
