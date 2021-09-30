@@ -1,6 +1,6 @@
-[![Known Vulnerabilities](https://snyk.io//test/github/notarise-gov-sg/i18n-nationality/badge.svg?targetFile=package.json)](https://snyk.io//test/github/sourcecode911/i18n-nationality?targetFile=package.json)
-[![GitHub issues](https://img.shields.io/github/issues/notarise-gov-sg/i18n-nationality)](https://github.com/sourcecode911/i18n-nationality/issues)
-[![License](https://img.shields.io/github/license/notarise-gov-sg/i18n-nationality)](https://github.com/sourcecode911/i18n-nationality/LICENSE)
+[![Known Vulnerabilities](https://snyk.io//test/github/notarise-gov-sg/i18n-nationality/badge.svg?targetFile=package.json)](https://snyk.io//test/github/notarise-gov-sg/i18n-nationality?targetFile=package.json)
+[![GitHub issues](https://img.shields.io/github/issues/notarise-gov-sg/i18n-nationality)](https://github.com/notarise-gov-sg/i18n-nationality/issues)
+[![License](https://img.shields.io/github/license/notarise-gov-sg/i18n-nationality)](https://github.com/Notarise-gov-sg/i18n-nationality/blob/master/LICENSE)
 
 # i18n-nationality
 
